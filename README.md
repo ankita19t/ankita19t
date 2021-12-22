@@ -1,4 +1,4 @@
-<h1 align="center">🙋 Hi, I’m Ankita<h1>
+<h1 align="center">🙋 Hi, I’m Ankita Tiwari<h1>
 <h3 align="center">💻 A passionate Web Developer from Rewa(Madhya Pradesh), India </h3>
 <ul>
  <li>👀 I’m B.tech Final Year student at Rewa Engineering college (RGPV) with Specialization in Electronics & Communication Branch ...</li>
