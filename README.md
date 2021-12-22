@@ -8,7 +8,7 @@ potential.
 
   
 ### :computer: Contact me on:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianavile/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-tiwari-59b50019b/) 
 
 <!---
 ankita19t/ankita19t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
